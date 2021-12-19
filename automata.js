@@ -34,7 +34,6 @@ for (j = 0; j <= m; j++){
 	for (i in alph){
 		out += del[j][i] + ' ';
 	}
-	console.log(j, out);
 }
 
 let state = 0;
